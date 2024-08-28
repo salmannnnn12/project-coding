@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "idMenu": 1,
+      "menuName": "Dashboard Mobile",
+      "labelMenu": "Dashboard"
+    },
+    {
+      "idMenu": 2,
+      "menuName": "Inbox page",
+      "labelMenu": "Inbox"
+    },
+    {
+      "idMenu": 3,
+      "menuName": "Inbox ",
+      "labelMenu": "Inbox page"
+    },
+    {
+      "id": "1e81",
+      "menuName": "salman",
+      "labelMenu": "Aduboy"
+    },
+    {
+      "id": "4dad",
+      "menuName": "Salman",
+      "labelMenu": "Alfaridzi"
+    },
+    {
+      "id": "97b0",
+      "menuName": "Sukarapih",
+      "labelMenu": "Salman"
+    },
+    {
+      "id": "2e39",
+      "menuName": "Salman",
+      "labelMenu": "Salmann"
+    },
+    {
+      "id": "a018",
+      "menuName": "Sukarapih",
+      "labelMenu": "12"
+    },
+    {
+      "id": "198e",
+      "menuName": "Sukarapih",
+      "labelMenu": "1145678909876543456789098765rgbu865rfgbh"
+    },
+    {
+      "id": "77d6",
+      "menuName": "Sukarapih",
+      "labelMenu": "1145678909876543456789098765rgbu865rfgbh1111111111111111111111111111111111111111111111111111111111111111111111111111111"
+    }
+  ]
+}

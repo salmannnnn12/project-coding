@@ -1,0 +1,42 @@
+{
+  "name": "project-magang",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-3": "^0.5.1",
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "https-browserify": "^1.0.0",
+    "lodash": "^4.17.21",
+    "lodash-id": "^0.14.1",
+    "lowdb": "^7.0.1",
+    "sass-loader": "^14.2.1",
+    "sweetalert2": "^11.12.4",
+    "vue": "^3.2.13",
+    "vue-pagination-2": "^3.1.0",
+    "vue-router": "^4.0.13",
+    "vuetify": "^3.7.0-beta.1",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.19",
+    "json-server": "^1.0.0-beta.1",
+    "postcss": "^8.4.38",
+    "sass": "^1.77.6",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
+  }
+}
